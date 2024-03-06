@@ -1,0 +1,76 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-02-29 17:21"
+    },
+    {
+      "id": "2",
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2024-02-29 18:21"
+    },
+    {
+      "id": "3",
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 100,
+      "createdAt": "2024-02-30 18:21"
+    },
+    {
+      "id": "4",
+      "description": "Comição",
+      "type": "income",
+      "category": "Salario",
+      "price": 10000,
+      "createdAt": "2024-03-01 18:21"
+    },
+    {
+      "id": "5",
+      "description": "Participação nos lucros(PRL)",
+      "type": "income",
+      "category": "Adicional",
+      "price": 5000,
+      "createdAt": "2024-02-29 18:21"
+    },
+    {
+      "id": "6",
+      "description": "Carteira de investimentos",
+      "price": 10000,
+      "category": "Investimento",
+      "type": "income",
+      "createdAt": "2024-03-02T18:05:26.392Z"
+    },
+    {
+      "id": "7",
+      "description": "Carteira de investimentos",
+      "price": 10000,
+      "category": "Investimento",
+      "type": "income",
+      "createdAt": "2024-03-02T18:23:20.660Z"
+    },
+    {
+      "id": "a96c",
+      "description": "Aluguel",
+      "price": 250,
+      "category": "casa",
+      "type": "outcome",
+      "createdAt": "2024-03-03T04:00:52.901Z"
+    },
+    {
+      "id": "a6c9",
+      "description": "merenda",
+      "price": 5,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2024-03-04T12:52:35.824Z"
+    }
+  ]
+}
